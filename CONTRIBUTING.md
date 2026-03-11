@@ -10,6 +10,7 @@ All contributions are subject to the Developer Certificate of Origin and license
 
 _This notice should stay as the first item in the CONTRIBUTING.md file._
 
+
 ## Code of conduct
 
 As contributors and maintainers of this project, we pledge to respect all people
