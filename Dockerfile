@@ -13,6 +13,7 @@ COPY --from=builder /usr/src/app/target/*.jar /app.jar
 
 RUN chown appuser:appgroup /app.jar
 
+
 USER appuser
 
 EXPOSE 8080
